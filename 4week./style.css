@@ -1,0 +1,19 @@
+*{
+    color:chartreuse;
+}
+
+h2{
+    background-color: blue;
+}
+
+.list_item{
+    background-color: aqua;
+}
+#knopka{
+    background-color: red;
+}
+div{
+    background-color: yellow;
+    height: 200px;
+    width: 300px;
+}
